@@ -1,0 +1,29 @@
+{
+  "name": "electron-starter-kit",
+  "version": "0.0.1",
+  "description": "Electron Starter Kit",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcker/electron-starter-kit.git"
+  },
+  "keywords": [
+    "electron",
+    "nodejs",
+    "starter-kit",
+    "web-app"
+  ],
+  "author": "marcker <marckfree@gmail.com> (http://marcker.herokuapp.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcker/electron-starter-kit/issues"
+  },
+  "homepage": "https://github.com/marcker/electron-starter-kit#readme",
+  "devDependencies": {
+    "electron": "^6.0.1",
+    "npx": "^10.2.0"
+  }
+}
