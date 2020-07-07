@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/marcker/electron-starter-kit#readme",
   "devDependencies": {
-    "electron": "^6.0.1",
+    "electron": "^9.1.0",
     "npx": "^10.2.0"
   }
 }
